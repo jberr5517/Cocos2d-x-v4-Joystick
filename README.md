@@ -1,6 +1,7 @@
 # Cocos2d-x v4 Joystick
 Joystick For Cocos2d-x. 
 
+I update the code so it will work for cocos2d-x v4
 
 setMainChar writes a sprite to be controlled with the joystick. 
 
